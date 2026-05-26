@@ -73,8 +73,8 @@ Codename: ${DIST}
 Architectures: ${ARCHES[*]}
 Components: ${COMPONENT}
 Description: Bitcraze package repository
-Date: $(date -Ru)
 EOF
+# apt-ftparchive appends the file hashes and its own Date: field.
 apt-ftparchive release . >> Release
 
 gpg --batch --yes --default-key "${GPG_KEY_ID}" -abs -o Release.gpg Release
