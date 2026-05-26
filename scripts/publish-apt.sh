@@ -29,6 +29,11 @@ DIST="stable"
 COMPONENT="main"
 ARCHES=(amd64 arm64)
 
+# Resolve SITE_DIR to an absolute path: the script cd's into the apt tree to run
+# dpkg-scanpackages / apt-ftparchive, so a relative APT_DIR would be re-applied
+# from the wrong working directory afterwards.
+mkdir -p "${SITE_DIR}"
+SITE_DIR="$(cd "${SITE_DIR}" && pwd)"
 APT_DIR="${SITE_DIR}/apt"
 
 if ! ls "${INCOMING_DIR}"/*.deb >/dev/null 2>&1; then
