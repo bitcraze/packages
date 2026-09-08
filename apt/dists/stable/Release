@@ -1,0 +1,32 @@
+Origin: Bitcraze
+Label: Bitcraze
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Bitcraze package repository
+Date: Tue, 08 Sep 2026 11:10:06 +0000
+MD5Sum:
+ 6d8045998541a391a65f60abe0d41629              187 Release
+ 41e00bf05e22b9894d1dd958095c3c28              701 main/binary-amd64/Packages
+ f16723f00b5f895d157109aaf4ef5ca5              499 main/binary-amd64/Packages.gz
+ 603009a5c99185161672d35a54a7ebf5              665 main/binary-arm64/Packages
+ f9449081c129ca0620dc214f224e3d1a              474 main/binary-arm64/Packages.gz
+SHA1:
+ a43530e49bcd7379a9a99a381c21ea78b2db7ce3              187 Release
+ 5fde42a165fb7f870ea6cba17a177bfa89b7b98e              701 main/binary-amd64/Packages
+ fce35b750cbc49ec95247dfc9d918fa57e801250              499 main/binary-amd64/Packages.gz
+ 786818081ffce2cf59c948c57a2a00bfffd89424              665 main/binary-arm64/Packages
+ 2146e1129fa9fc59c6050efe45d202f79462adab              474 main/binary-arm64/Packages.gz
+SHA256:
+ 1ebf2878e5476993a7508bbe73da41e220d7f3c1b413a5643cd030d90a50092c              187 Release
+ 2cab1f4917a8abdcdffd58c03a016fa43040fc5eee1941c64149a301037a0af2              701 main/binary-amd64/Packages
+ 0b9ababaa0ed33f857cdf16f81f0b5987fa2dfbdf33892603ef5c4a9e0142a13              499 main/binary-amd64/Packages.gz
+ 8207d24335d93d67247d835cff8d11ba9f6e8bcd9df917bf15ee18709530c0f5              665 main/binary-arm64/Packages
+ c047cd684ee9726215b788b26c2bff1f8b43665a8a41552e641063286e0e13ad              474 main/binary-arm64/Packages.gz
+SHA512:
+ 37f14f99621d35ca9e6ced7664b35f08a3a0cf1a8f32c35a566a8c8afd27a0e21b1d5e78f13db16a6f3218ad077c6de534197f2caf15c7c86a629c228227617a              187 Release
+ e5345d46a3560ffb4a7b8e09045c1138dcafe81451d2b2430a73557c52863e5cb9e68fe1f2f6a7f0556f725abdea5ca8e6a89dfad412614b08e293d6c950f632              701 main/binary-amd64/Packages
+ 9c5d82d9945121855db8e4bcb32e6453e925240be44c93132f153e7de1b57ad4e178331083703860f472ca0b289e26549fa0a9e68b468fe506fa862df97762e8              499 main/binary-amd64/Packages.gz
+ 39de50dc7f33cae9cd8416854df39d35087149b2b629514dc7cce5764edc83d344db0ab4cab18f9793fccd544bc24ac78bc2518eaf648c0e8603ad2677fde532              665 main/binary-arm64/Packages
+ b6811833f32c13e9494257238aaa94333c154194d7477bfe81f87bfa9d54391c44907ac1106dea16e237d33facb0cf6460d9d7c7fe7011e37c49b63a5f0b684c              474 main/binary-arm64/Packages.gz
