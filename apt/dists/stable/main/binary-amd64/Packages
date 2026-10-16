@@ -1,0 +1,20 @@
+Package: cfcli
+Version: 0.18.0-1
+Architecture: amd64
+Maintainer: Marcus Eliasson <marcus@bitcraze.io>
+Installed-Size: 42034
+Depends: curl, gnupg, libc6 (>= 2.39), libudev1 (>= 183)
+Filename: pool/main/cfcli/cfcli_0.18.0-1_amd64.deb
+Size: 7631820
+MD5sum: e366e49830feb59d5774e8bf7e1b0ef0
+SHA1: 937956a1bf1f2767b3270f5be9b7f66ab7b42481
+SHA256: e0344f705815982748a076120f3db1ee9ff282add297917ba9380b0b2863e6f8
+Section: utils
+Priority: optional
+Homepage: https://github.com/bitcraze/cfcli
+Description: Crazyflie command-line client
+ A command-line interface tool for managing and interacting with Crazyflie
+ drones.
+ Provides logging, parameter control, memory operations, and bootloader
+ functionality.
+

@@ -1,0 +1,32 @@
+Origin: Bitcraze
+Label: Bitcraze
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Bitcraze package repository
+Date: Fri, 16 Oct 2026 08:16:46 +0000
+MD5Sum:
+ a0f3ae118e024a8a20a114dff7c8fe19              187 Release
+ 96ee1829901303421d40983f5a4f9307              701 main/binary-amd64/Packages
+ fd09dcbd7e4129e9da2c41fdac911168              502 main/binary-amd64/Packages.gz
+ 29b2140cbac458fadd884e17cee88cc8              665 main/binary-arm64/Packages
+ 55f873dfb887d17aaae425fc13b85f7f              476 main/binary-arm64/Packages.gz
+SHA1:
+ a3989294d0d7953679ebe2eeb9002e92a125646e              187 Release
+ 84febcfafc30447e916fab33365cbf44c199c2d9              701 main/binary-amd64/Packages
+ 35a48061dfb9bcdf0ccd3af79fad0f08d2470826              502 main/binary-amd64/Packages.gz
+ 07ab130c5d755bf8a3b40ad3836ee88754599279              665 main/binary-arm64/Packages
+ a0e47ebff59baf6e737048bbb09c39d144f81f79              476 main/binary-arm64/Packages.gz
+SHA256:
+ 1c2a5f3f7f804ba5a34d99fdf9e103dc21ecfd784fa941b3dfaaccf4266b590a              187 Release
+ 2996acca355741dee05a0c9e6d6ef54ac689e13788d86b383907012e5145f872              701 main/binary-amd64/Packages
+ 279056d4cd951502e676dadb1c00f377aefd2bd0a6681c5f2e07e2e7f5d856f2              502 main/binary-amd64/Packages.gz
+ 41b42a0d98287f1ee4632ecc56cf6100d3f1950f027c922bc7477d8f1bd8f21d              665 main/binary-arm64/Packages
+ be59f4076bc6ab158becd7a801f31a5da333122b13b0eb895039fbe6d481fac4              476 main/binary-arm64/Packages.gz
+SHA512:
+ a57fcf25bfd86808d704afc2a5fe0d391e780a4fb51a8db54276dbf996b2f164db0ee2333485db1bca45a8df18d092775ae172030fcad8f566a5e7e0f468683b              187 Release
+ 3617da5e451c061391d0c7066a0466df648aee8563519537443eab9cd9bbbba6264dd5876a9fc2bac2643ea695ebb8e50a1c6ea60ea748185320edb5afdc582e              701 main/binary-amd64/Packages
+ 81a5c2ae95907fe42774b69b3e91fcefd6ef5640d5070a755614191f7509930d5adda1e6cef09816042b59c6e2a859f7796771102c4fdac0f4021482cad0df1f              502 main/binary-amd64/Packages.gz
+ d297db03b7ce779d15e660e2e9258c1cbf07a67bbf7a7cc88925ca68d7d514071366628148d27dbb1d925b6daded794e8355daf6e9d2d480416a83c1323b835b              665 main/binary-arm64/Packages
+ 31e6773b2f014babedff98792ea1aec7d610b98b0399acc19cde15dfc8a29c5b6df516a3452476fb887b001efadecd4643a0ab837e9355f07633b72be7dc2dfd              476 main/binary-arm64/Packages.gz
